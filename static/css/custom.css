@@ -1,0 +1,22 @@
+h1, h2, h3, h4, h5, h6 {
+  color: #00B2FF;
+}
+
+.title * {
+  color: #00B2FF;
+  font-size: 40px
+}
+
+#left-sidebar #create-button:hover * {
+  color: #00B2FF;
+}
+
+.table-wrapper {
+  width: 100% !important;
+  max-width: 100% !important;
+}
+
+table td {
+  min-width:100px;
+  word-wrap:break-word;
+}
